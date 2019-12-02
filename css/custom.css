@@ -1,0 +1,10 @@
+.jason {
+    max-width: 250px;
+}
+
+@media (max-width: 992px) {
+    .jason {
+        max-width: 100%;
+    }
+}
+
